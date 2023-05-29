@@ -158,10 +158,10 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 ## OUTPUT :
  
-![image](https://github.com/EASWAR17/Experiment-5-Implementation-of-XOR-using-RBF/assets/94154683/605f7213-a5ce-4cc7-97a2-0fd9cfcef3d4)
+![image1.png]
 
 
-![image](https://github.com/EASWAR17/Experiment-5-Implementation-of-XOR-using-RBF/assets/94154683/e4d434d3-9944-4844-9917-4fa3219fa15e)
+![image2.png]
 
 
 ## RESULT:
