@@ -1,4 +1,4 @@
-# Experiment-5-Implementation-of-XOR-using-RBF
+# EX-05--Implementation-of-XOR-using-RBF
 
 ## AIM:
   To classify the Binary input patterns of XOR data  by implementing Radial Basis Function Neural Networks.
@@ -71,8 +71,8 @@ bias edge
 
 ## PROGRAM:
 ```
-NAME : PRAGATHEESVARAN A B
-REG NO : 212221240039
+Name   : Kersoan P
+Reg.no : 212221230050
 ```
 ```python
 import numpy as np
@@ -166,7 +166,7 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 ## RESULT:
 
-Thus Implementation of XOR problem using Radial Basis Function executed successfully.
+Thus,Implementation of XOR problem using Radial Basis Function executed successfully.
 
 
 
